@@ -1,10 +1,10 @@
 fastapi
-bs4
 requests
-uvicorn
 spotipy
 aiohttp
 shazamio
 ffmpeg
+uvicorn
+bs4
 python-multipart
 with
