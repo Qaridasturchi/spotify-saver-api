@@ -3,3 +3,9 @@ bs4
 requests
 uvicorn
 spotipy
+aiohttp
+random
+shazamio
+os
+uuid
+ffmpeg
