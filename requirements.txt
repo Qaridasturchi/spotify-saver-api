@@ -6,6 +6,5 @@ spotipy
 aiohttp
 random
 shazamio
-os
 uuid
 ffmpeg
