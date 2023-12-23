@@ -7,3 +7,4 @@ aiohttp
 shazamio
 ffmpeg
 python-multipart
+with
