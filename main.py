@@ -21,6 +21,8 @@ from fastapi.encoders import jsonable_encoder
 from spotify_search import SearchFromSpotify
 
 from funcs import DownloadMusic
+from fastapi import Query
+
 
 import requests
 
