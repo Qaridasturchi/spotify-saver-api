@@ -1,8 +1,8 @@
 import spotipy,json
 from spotipy.oauth2 import SpotifyClientCredentials
 
-client_id = 'your_spotify_clent_id_here'
-client_secret = 'your_spotify_client_secrect_here'
+client_id = '93dfe93f21fb46aaad10947eadfde562'
+client_secret = '36bb6e205ff143c6aeab7c3eb9bafd3a'
 
 # If you have any questions about client_id and client_secret, welcome to ask Telegram: @ai_junior
 
