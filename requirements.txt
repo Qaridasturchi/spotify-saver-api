@@ -6,3 +6,4 @@ spotipy
 aiohttp
 shazamio
 ffmpeg
+python-multipart
